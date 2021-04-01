@@ -34,6 +34,8 @@ mv init.vim .config/nvim
 
 sudo apt-get install docker.io -y
 
+sudo apt install virtualbox virtualbox-ext-pack -y
+
 #VSCode install
 wget https://go.microsoft.com/fwlink/?LinkID=760868
 mv index.html?LinkID=760868 vscode.deb
