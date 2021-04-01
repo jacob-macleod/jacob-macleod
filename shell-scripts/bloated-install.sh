@@ -54,8 +54,11 @@ sudo apt-get install openjdk-11-jdk
 wget http://ftp.fau.de/eclipse/technology/epp/downloads/release/2020-06/R/eclipse-java-2020-06-R-linux-gtk-x86_64.tar.gz
 tar -xzf eclipse-java-2020-06-R-linux-gtk-x86_64.tar.gz
 
+#Blender
+sudo apt-get install blender -y
 
-
+#Gimp
+sudo apt-get install gimp -y
 #Make sure these are at the bottom so that these are seen!
 echo "Please make sure to add a bash script to launch eclipse containing sommelier -X --scale=0.85 eclipse/eclipse"
 echo "Make sure to also change the eclipse style to code darker or something by devstyle"
