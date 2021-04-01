@@ -1,6 +1,6 @@
 #A bloated install of all the apps I could possibly need - for debian-based linux distros
-sudo apt-get install git -y
 sudo apt update
+sudo apt-get install git -y
 
 #Install up-clock:
 wget http://ppa.launchpad.net/apandada1/up-clock/ubuntu/pool/main/u/up-clock/up-clock_6.2-0\~10\~ubuntu20.04.1_all.deb 
