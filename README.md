@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=I'm+Jacob+MacLeod;I+love+programming+and+making+things!;Check+out+my+README.md)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=41FF25&background=000000&width=435&lines=Hi%2C+I'm+Jacob+MacLeod;I+love+programming+and+making+things!;Check+out+my+README.md)](https://git.io/typing-svg)
 
 ## A quick summary
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-macleod&theme=buefy&layout=compact)
