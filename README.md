@@ -61,6 +61,10 @@
  ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+## Some fun stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacob-macleod&show_icons=true)
+
+
 <!--Some links I used to build me README.md:
 https://github.com/DenverCoder1/readme-typing-svg
 https://zzetao.github.io/awesome-github-profile/
