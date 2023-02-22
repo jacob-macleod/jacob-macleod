@@ -78,6 +78,7 @@
  <summary>Expand</summary>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacob-macleod&show_icons=true)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=jacob-macleod)](https://git.io/streak-stats)
 </details>
 
 <!--Some links I used to build me README.md:
