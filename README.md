@@ -8,3 +8,5 @@ I'm Jacob Macleod!
 - 🌱 I’m currently learning Tensorflow
 - 📫 How to reach me: You can't
 - ⚡ Fun fact: The moon has moonquakes
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacob-macleod)](https://github.com/anuraghazra/github-readme-stats)
