@@ -85,4 +85,5 @@
 https://github.com/DenverCoder1/readme-typing-svg
 https://zzetao.github.io/awesome-github-profile/
 https://github.com/anuraghazra/github-readme-stats
-https://github.com/Ileriayo/markdown-badges-->
+https://github.com/Ileriayo/markdown-badges
+https://github.com/DenverCoder1/github-readme-streak-stats-->
