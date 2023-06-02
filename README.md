@@ -5,7 +5,7 @@
 ## A quick summary
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-macleod&theme=buefy&layout=compact)
 
-- ⌨️ I mainly program in Python, Java, Javascript, Arduino, Visual Basic, C# and C++
+- ⌨️ I mainly program in Python, Dart, Java, Javascript, Arduino, Visual Basic, C# and C++
 - 🔭 I’m currently working on a language learning app
 - 🌱 I’m currently learning Tensorflow
 - 📫 How to reach me: You can't
