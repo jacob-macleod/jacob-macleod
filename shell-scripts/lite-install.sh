@@ -4,7 +4,7 @@ sudo apt-get update
 sudo apt-get install git
 
 #Vim install
-sudo apt-get install vim
+sudo apt-get install vim -y 
 mkdir .vim
 mkdir .vim/colors
 wget https://github.com/arcticicestudio/nord-vim/raw/develop/colors/nord.vim
@@ -12,7 +12,9 @@ mv nord.vim .vim/colors
 wget https://raw.githubusercontent.com/jacob-macleod/jacob-macleod/master/dot-files/vimrc
 mv vimrc .vimrc
 sudo git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-sudo apt-get install vim-gtk3 --fix-missing
+sudo chmdd +777 .vimrc
+sudo chmod +777 .vim/bundle
+sudo apt-get install vim-gtk3 --fix-missing -y
 
 #Z.lua install
 sudo apt install lua5.2
