@@ -33,30 +33,32 @@ let &t_EI = "\<Esc>]50;CursorShape=0\x7"
 "******************************
 
 " Install the vim plug plugins
-call plug#begin(expand('~/.vim/plugged'))
-    Plug 'scrooloose/nerdtree'
-    Plug 'tomasiser/vim-code-dark'
-    Plug 'vim-airline/vim-airline'
-    Plug 'vim-airline/vim-airline-themes'
-    Plug 'mhinz/vim-startify'
-    Plug 'xolox/vim-misc'
-    Plug 'xolox/vim-session'
-    Plug 'ryanoasis/vim-devicons'
-    Plug 'joshdick/onedark.vim'
-    Plug 'ycm-core/YouCompleteMe'
-    Plug 'dense-analysis/ale'
-    Plug 'ap/vim-css-color'
-    Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
-    Plug 'junegunn/fzf.vim'
-    Plug 'mattn/emmet-vim'
-    Plug 'airblade/vim-gitgutter'
-    Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
-    Plug 'puremourning/vimspector'
-    Plug 'jiangmiao/auto-pairs'
-    Plug 'mzlogin/vim-markdown-toc'
-    Plug 'mattn/emmet-vim'
-    Plug 'sheerun/vim-polyglot'
-call plug#end()
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+    Plugin 'VundleVim/Vundle.vim'
+    Plugin 'scrooloose/nerdtree'
+    Plugin 'tomasiser/vim-code-dark'
+    Plugin 'vim-airline/vim-airline'
+    Plugin 'vim-airline/vim-airline-themes'
+    Plugin 'mhinz/vim-startify'
+    Plugin 'xolox/vim-misc'
+    Plugin 'xolox/vim-session'
+    Plugin 'ryanoasis/vim-devicons'
+    Plugin 'joshdick/onedark.vim'
+    Plugin 'ycm-core/YouCompleteMe'
+    Plugin 'dense-analysis/ale'
+    Plugin 'ap/vim-css-color'
+    Plugin 'junegunn/fzf', { 'do': { -> fzf#install() } }
+    Plugin 'junegunn/fzf.vim'
+    Plugin 'mattn/emmet-vim'
+    Plugin 'airblade/vim-gitgutter'
+    Plugin 'tiagofumo/vim-nerdtree-syntax-highlight'
+    Plugin 'puremourning/vimspector'
+    Plugin 'jiangmiao/auto-pairs'
+    Plugin 'mzlogin/vim-markdown-toc'
+    Plugin 'mattn/emmet-vim'
+    Plugin 'sheerun/vim-polyglot'
+call vundle#end()
 
 "****************************
 "   VISUAL SETTINGS SETUP
@@ -156,4 +158,3 @@ nnoremap <S-Tab> gT
 
 " Load NERDTree
 autocmd VimEnter *.* NERDTreeToggle .
-
