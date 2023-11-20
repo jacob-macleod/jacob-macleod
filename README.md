@@ -7,7 +7,7 @@
 
 - ⌨️ I mainly program in Python, Dart, Java, Javascript, Arduino, Visual Basic, C# and C++
 - 🔭 I’m currently working on a note taking app
-- 🌱 I’m currently learning Flutter and Dart
+- 🌱 I’m currently learning C++ for University, as well as Flutter and Dart on the side
 - 📫 How to reach me: You can't
 - ⚡ Fun fact: The moon has moonquakes
 
