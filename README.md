@@ -14,7 +14,7 @@
 ## Some of my recent projects
 |**Project**|**Description**|
 |-------|-----------|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacob-macleod&repo=Flashcard-App)](https://github.com/jacob-macleod/Cryptocurrency-Price-Prediction)|A beautifully designed flashcard app made to improve similar apps like Anki or Quizlet|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacob-macleod&repo=Flashcard-App)](https://github.com/jacob-macleod/Flashcard-App)|A beautifully designed flashcard app made to improve similar apps like Anki or Quizlet|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacob-macleod&repo=3D-Engine)](https://github.com/jacob-macleod/3D-Engine)|A 3D engine that runs in the terminal|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacob-macleod&repo=LinguaLearn)](https://github.com/jacob-macleod/LinguaLearn)|An innovative language learning app|
 
